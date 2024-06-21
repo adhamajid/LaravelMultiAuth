@@ -1,0 +1,5 @@
+app/model/user.php = untuk protected fillable data atau meneruskan dan views -> controller untuk create database
+
+resources/views/auth/register.blade.php = untuk tampilan UI halaman authentication 
+
+app/http/controllers/auth/registerusercontroller = untuk create database
